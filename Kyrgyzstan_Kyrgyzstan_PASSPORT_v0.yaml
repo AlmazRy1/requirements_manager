@@ -1,4 +1,10 @@
-origin_country: JP
-destination_country: CL
-section_type: PASSPORT
-status: Published
+# AE_croatia
+SECTION_PA:
+  PASSPORT:
+    - Passport required.
+  Exemptions:
+    - With a travel document issued to refugees or stateless persons. They must also have a residence permit issued by United Arab Emirates.
+    - With a Laissez-Passer issued by the United Nations traveling on duty.
+  Validity:
+    - Passports and other documents accepted for entry must be valid for a minimum of 6 months from the arrival date.
+    - Passports and other documents accepted for entry issued to residents of the United Arab Emirates must be valid on arrival.
