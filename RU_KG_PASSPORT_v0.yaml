@@ -1,1 +1,84 @@
-asda: ffff
+# CN_russianfed
+SECTION_PA:
+  PASSPORT:
+    - Passport required.
+  Exemptions:
+    - With a travel document issued to refugees or stateless persons.
+  Validity:
+    - Passports and other documents accepted for entry must be valid for the period of intended stay.
+    - When in transit, passports and other documents accepted for entry must be valid for a minimum of 3 months from the arrival date.
+  Crew_Members:
+    - Passport and Crew ID card required for nationals of all other countries.
+  Children:
+    - Children younger than 18 years registered in a parent's passport are allowed to enter.
+  IMPORTANT_INFO:
+    - With a tourist group visa on a visa list can obtain the original visa upon arrival from the travel agency.
+    
+SECTION_VI:
+  VISA:
+    - Visa required.
+  Exemptions:
+    - With a normal passport arriving at Haikou (HAK) or Sanya (SYX) for a maximum stay of 30 days. They must:
+        - have a passport valid for a minimum of 6 months from the arrival date; and
+        - have at least 1 unused visa page in the passport; and 
+        - stay only in Hainan province; and
+        - have a confirmed hotel reservation; and
+        - have a return/onward ticket for an international flight from Haikou (HAK) or Sanya (SYX).
+    - With a diplomatic passport.
+    - With a service passport for a maximum stay of 30 days.
+    - With a residence permit issued by China (People's Rep.).
+    - Traveling as tourists in a group organized by a Chinese international tour operator or registered travel agency for a maximum stay of 6 days if:
+        - Arriving from Hong Kong or Macao to take a trip to the Zhujiang Delta in Guangdong province.
+        - Arriving at/departing from Dongguan (DGM), Guangzhou (CAN), Huizhou (HUZ), Shantou (SWA), Shenzhen (SZX), or Zhuhai (ZUH).
+        - Being a national of a country having diplomatic relations with China (People's Rep.).
+  TRANSIT_(TWOV):
+    - Confirmed onward ticket for a flight to a third country within 24 hours, can obtain an entry permit on arrival (also when multiple transit stops within China (People's Rep.).
+    - Confirmed onward ticket for a flight to a third country within 72 or 144 hours (starting from 00:01 on the day following the day of entry) transiting through:
+        - Changsha (CSX) must arrive at and depart from the same airport.
+        - Guilin (KWL) or Harbin (HRB) must arrive at and depart from the same airport.
+        - Chengdu Shuangliu (CTU) or Chengdu Tianfu (TFU) must arrive at and depart from Chengdu Shuangliu (CTU) or Chengdu Tianfu (TFU) and have documents required for the next destination and stay in the administrative area of Chengdu, Lesha, Deyang, Suining, Meishan, Ya'an, Ziyang, Neijiang, Zigong, Luzhou, and Yibin.
+        - Xiamen (XMN) must arrive at and depart from one of the following locations: Xiamen (XMN), Xiamen International Cruise Center, or Wutong Passenger Wharf.
+    - Confirmed onward air, cruise, or train ticket to a third country within 144 hours, starting from 00:01 on the day following the day of entry, must arrive at and depart from one of the following locations:
+        - two airports: Dalian (DLC) or Shenyang (SHE).
+        - Hangzhou (HGH), Nanjing (NKG), Ningbo (NGB), Shanghai, Hongqiao (SHA) and Pudong (PVG), Shanghai Port International Cruise Terminal, Shanghai Wusongkou (Baoshan) International Cruise Terminal, Shanghai Railway Station.
+        - Beijing (PEK), Daxing (PKX), Tianjin (TSN), Shijiazhuang (SJW), Beijing West Railway Station, Tianjin International Cruise Home Port, or Qinhuangdao Sea Port.
+        - Kunming (KMG), Lijiang (LJG), Mohan Train Station, and stay in the administrative area of Kunming, Lijiang, Yuxi, Pu'er, Chuxiong, Dali, Xishuangbanna, Honghe, and Wenshan.
+        - Qingdao (TAO) or Qingdao Port.
+        - Guangzhou (CAN), Shantou (SWA), or Shenzhen (SZX) and depart from one of the following locations:
+            - Airport: Guangzhou (CAN), Meixian (MXZ), Shantou (SWA), Shenzhen (SZX), Zhanjiang (ZHA).
+            - Highway port: Futian Port, Hengqin Port, Hong Kong-Zhuhai-Macao Bridge Zhuhai Port, Huanggang Port, Liantang Port, Luohu Port, Man Kam To Port, Shenzhen Bay Port, Shenzhen Shatoujiao Port, Zhuhai Gongbei Port.
+            - Railway port: Guangzhou-Shenzhen-Hong Kong West Kowloon Station Port.
+            - Sea port: Dongguan Humen Port, Doumen Port, Foshan Gaoming Port, Guangzhou Port, Heshan Port, Jiangmen Port, Jiuzhou Port, Lianhuashan Port, Nansha Port, Pazhou Ferry Terminal, Rongqi Port, Shekou Wharf Port, Shenzhen Airport Supporting Port, Wanshan Port, Wanzai Port, Zhongshan Port.
+        - Chongqing (CKG).
+        - Xi'an (XIY).
+        - Zhengzhou (CGO).
+        - Wuhan (WUH).
+  Merchant_Seamen:
+    - Visa required.
+  Crew_Members:
+    - Crew Members traveling on duty must hold a C visa. 
+    - Deadheading crew are allowed to enter China (People's Rep.) to operate commercial/cargo flights out of China (People's Rep.), if holding: 
+        - A passport, and
+        - China “C" visa, and 
+        - A company ID, and 
+        - Proof of the purpose of travel and trip itinerary, such as a general declaration (GENDEC) or company letter which has been submitted to China Inspection and Quarantine.
+  IMPORTANT_INFO:
+    - Documents must remain valid for the duration of stay or transit.
+    - Not holding return or onward tickets may be denied entry.
+    - Traveling to Tibet must hold a special Tibet Entry Permit.
+    - Residence permits stamped with ink are not valid for entry.
+    - APEC Business Travel Cards (virtual) are accepted to enter (on the ABTC App).
+    - visa on arrival:
+        - A Port Visa.
+        - A Port E-Visa at Shanghai Pudong (PVG) or Shanghai Hongqiao (SHA).
+        - Tourists can obtain a visa on arrival at Shenzhen (SZX) (5 days maximum).
+    - The personal information in expired passports must be identical in new as well as in valid visas or resident permits.
+    - Children traveling on the passport of a parent or guardian must be endorsed in the visa of the passport holder. Individual visas are not required for them if properly listed.
+
+SECTION_HE:
+  VACCINATION:
+    - Arriving within 6 days after leaving or transiting countries with risk of yellow fever transmission and not holding a yellow fever vaccination certificate are subject to vaccination and quarantine upon arrival.
+  Exemptions:
+    - Children under 9 months of age.
+    - Transiting China (People's Rep.) if not leaving the transit area.
+    - Transiting countries with yellow fever risk areas, and do not leave the transit areas.
