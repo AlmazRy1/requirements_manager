@@ -1,7 +1,7 @@
 # CN_russianfed
 SECTION_PA:
   PASSPORT:
-    - Passport required.
+    - Passport required.222
   Exemptions:
     - With a travel document issued to refugees or stateless persons.
   Validity:
@@ -16,7 +16,7 @@ SECTION_PA:
     
 SECTION_VI:
   VISA:
-    - Visa required.
+    - Visa required.1
   Exemptions:
     - With a normal passport arriving at Haikou (HAK) or Sanya (SYX) for a maximum stay of 30 days. They must:
         - have a passport valid for a minimum of 6 months from the arrival date; and
